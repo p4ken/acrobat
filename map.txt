@@ -1,0 +1,11 @@
+BveTs Map 2.02
+
+0;
+include 'track/distance.txt';
+include 'track/tracks.txt';
+include 'track/noborito/noborito4.txt';
+Structure.Load('structures.csv');
+include 'landscape/tilt.txt';
+include 'landscape/background.txt';
+include 'landscape/rail.txt';
+include 'operation/station/10cars.txt';
