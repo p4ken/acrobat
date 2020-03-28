@@ -7,7 +7,7 @@
 - Scenarios
   - p4ken
     - acrobat
-      - 直下に `acrobat.ini`
+      - 直下に `acrobat.txt`
     - [empty][] 
       - 直下に `vehicle.ini`
     - [GeneralStr_v099r2_dds][]
