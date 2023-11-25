@@ -9,3 +9,4 @@ include 'landscape/tilt.txt';
 include 'landscape/background.txt';
 include 'landscape/rail.txt';
 include 'operation/station/10cars.txt';
+include 'develop/grid.txt';

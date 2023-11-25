@@ -3,3 +3,6 @@ BveTs Structure List 2.00:shift_jis
 Bg_fine_summer,..\GeneralStr_v099r2_dds\BG\Bg_fine_summer.x
 BallastPC_K_5a,..\GeneralStr_v099r2_dds\Rail\Ballast01\BallastPC_K_5a.x
 BallastPC_K_5b,..\GeneralStr_v099r2_dds\Rail\Ballast01\BallastPC_K_5b.x
+grid,develop\grid.x
+grid_x,develop\grid_x.x
+grid_z,develop\grid_z.x
