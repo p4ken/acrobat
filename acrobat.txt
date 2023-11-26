@@ -5,7 +5,7 @@ Title = 通勤準急
 Route = map.txt
 RouteTitle = 小田急線 登戸～代々木上原
 
-Vehicle = ..\empty\vehicle.ini
+Vehicle = ..\..\ntfiv\dummytrain\vehicle.txt
 VehicleTitle = 空の車両
 
 Image = acrobat.jpg
